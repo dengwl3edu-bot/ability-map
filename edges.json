@@ -1,0 +1,872 @@
+[
+ {
+  "from": "N-ATT-001",
+  "to": "N-ATT-002",
+  "strength": "hard",
+  "why": "先对人有兴趣，才会在游戏里看人"
+ },
+ {
+  "from": "N-ATT-002",
+  "to": "N-ATT-003",
+  "strength": "hard",
+  "why": "会看你，才会用眼神和动作催你继续"
+ },
+ {
+  "from": "N-ATT-003",
+  "to": "N-ATT-004",
+  "strength": "hard",
+  "why": "能催一次，才能连成好几次"
+ },
+ {
+  "from": "N-ATT-001",
+  "to": "N-ATT-005",
+  "strength": "soft",
+  "why": "对人的声音有兴趣，叫名字才有意义"
+ },
+ {
+  "from": "N-ATT-005",
+  "to": "N-ATT-006",
+  "strength": "soft",
+  "why": "会转向你，才容易跟着你的指示看"
+ },
+ {
+  "from": "N-ATT-002",
+  "to": "N-ATT-007",
+  "strength": "hard",
+  "why": "眼神来回需要先愿意看人的脸"
+ },
+ {
+  "from": "N-ATT-006",
+  "to": "N-ATT-007",
+  "strength": "soft",
+  "why": "跟随注意和眼神来回常一起发展"
+ },
+ {
+  "from": "N-ATT-007",
+  "to": "N-ATT-008",
+  "strength": "soft",
+  "why": "会看东西又看你，才会拿东西给你看"
+ },
+ {
+  "from": "N-ATT-006",
+  "to": "N-ATT-009",
+  "strength": "hard",
+  "why": "先懂得「指」的意思，才会用指来分享"
+ },
+ {
+  "from": "N-ATT-008",
+  "to": "N-ATT-009",
+  "strength": "soft",
+  "why": "先会递给你看，再发展到远距离指给你看"
+ },
+ {
+  "from": "N-ATT-004",
+  "to": "N-ATT-010",
+  "strength": "soft",
+  "why": "能撑几个回合，才能一起专注更久"
+ },
+ {
+  "from": "N-ATT-006",
+  "to": "N-ATT-010",
+  "strength": "soft",
+  "why": "会跟着你看，才能一起看同一样东西"
+ },
+ {
+  "from": "N-ATT-002",
+  "to": "N-IMI-001",
+  "strength": "soft",
+  "why": "会看你，才看得到你怎么玩"
+ },
+ {
+  "from": "N-ATT-002",
+  "to": "N-IMI-002",
+  "strength": "soft",
+  "why": "会看你，才看得到你的动作"
+ },
+ {
+  "from": "N-ATT-003",
+  "to": "N-IMI-003",
+  "strength": "soft",
+  "why": "有了来回的意识，声音才能一来一回"
+ },
+ {
+  "from": "N-REQ-001",
+  "to": "N-REQ-002",
+  "strength": "soft",
+  "why": "从全身表达到用眼睛表达"
+ },
+ {
+  "from": "N-REQ-002",
+  "to": "N-REQ-003",
+  "strength": "soft",
+  "why": "先盯着，再伸手够"
+ },
+ {
+  "from": "N-REQ-003",
+  "to": "N-REQ-004",
+  "strength": "soft",
+  "why": "伸手够和举手要抱是同一类动作"
+ },
+ {
+  "from": "N-ATT-003",
+  "to": "N-REQ-008",
+  "strength": "hard",
+  "why": "要「再来」就是会催你继续"
+ },
+ {
+  "from": "N-REQ-003",
+  "to": "N-REQ-006",
+  "strength": "hard",
+  "why": "手指是从伸手够慢慢收成的"
+ },
+ {
+  "from": "N-ATT-007",
+  "to": "N-REQ-006",
+  "strength": "soft",
+  "why": "指的时候看你，指才有沟通作用"
+ },
+ {
+  "from": "N-IMI-003",
+  "to": "N-REQ-005",
+  "strength": "soft",
+  "why": "会模仿声音，才容易形成固定的声音"
+ },
+ {
+  "from": "N-REQ-005",
+  "to": "N-REQ-013",
+  "strength": "soft",
+  "why": "固定的声音会慢慢变成词"
+ },
+ {
+  "from": "N-REQ-006",
+  "to": "N-REQ-013",
+  "strength": "soft",
+  "why": "会指的孩子更容易开始用词"
+ },
+ {
+  "from": "N-REQ-003",
+  "to": "N-REQ-007",
+  "strength": "hard",
+  "why": "会伸手拿东西，才能学会把卡递出去"
+ },
+ {
+  "from": "N-REQ-002",
+  "to": "N-REQ-010",
+  "strength": "hard",
+  "why": "选择要先能看清两样东西"
+ },
+ {
+  "from": "N-REQ-003",
+  "to": "N-REQ-009",
+  "strength": "hard",
+  "why": "找人帮忙要先会伸手或拉手"
+ },
+ {
+  "from": "N-IMI-002",
+  "to": "N-REQ-012",
+  "strength": "soft",
+  "why": "手势多是靠模仿学来的"
+ },
+ {
+  "from": "N-REQ-001",
+  "to": "N-REQ-011",
+  "strength": "soft",
+  "why": "从哭闹拒绝到合适地拒绝"
+ },
+ {
+  "from": "N-REQ-012",
+  "to": "N-REQ-011",
+  "strength": "soft",
+  "why": "摇头是一种合适的拒绝方式"
+ },
+ {
+  "from": "N-REQ-008",
+  "to": "N-REQ-014",
+  "strength": "soft",
+  "why": "在游戏里会要，才会主动来要"
+ },
+ {
+  "from": "N-REQ-006",
+  "to": "N-REQ-014",
+  "strength": "soft",
+  "why": "有了可用的方式，才容易主动"
+ },
+ {
+  "from": "N-REQ-013",
+  "to": "N-REQ-014",
+  "strength": "soft",
+  "why": "有了可用的方式，才容易主动"
+ },
+ {
+  "from": "N-REQ-007",
+  "to": "N-REQ-014",
+  "strength": "soft",
+  "why": "有了可用的方式，才容易主动"
+ },
+ {
+  "from": "N-REQ-014",
+  "to": "N-REQ-015",
+  "strength": "hard",
+  "why": "先对你主动，再推广到别人"
+ },
+ {
+  "from": "N-REQ-013",
+  "to": "N-REQ-016",
+  "strength": "hard",
+  "why": "先有单个词，才能连两个词"
+ },
+ {
+  "from": "N-REQ-016",
+  "to": "N-REQ-020",
+  "strength": "hard",
+  "why": "先会两个词，再到三个词以上"
+ },
+ {
+  "from": "N-ATT-005",
+  "to": "N-REQ-017",
+  "strength": "soft",
+  "why": "懂得名字的作用，才会用名字叫人"
+ },
+ {
+  "from": "N-REQ-014",
+  "to": "N-REQ-017",
+  "strength": "hard",
+  "why": "先会主动要，再学先叫人"
+ },
+ {
+  "from": "N-REQ-010",
+  "to": "N-REQ-018",
+  "strength": "soft",
+  "why": "有选择的经验，等待时才有期待"
+ },
+ {
+  "from": "N-REQ-018",
+  "to": "N-REQ-019",
+  "strength": "hard",
+  "why": "能等一下，才能接受先做别的"
+ },
+ {
+  "from": "N-PLY-001",
+  "to": "N-PLY-002",
+  "strength": "hard",
+  "why": "先会探索，才会发现动作能带来结果"
+ },
+ {
+  "from": "N-PLY-002",
+  "to": "N-PLY-003",
+  "strength": "soft",
+  "why": "有了因果玩法，装进倒出更有乐趣"
+ },
+ {
+  "from": "N-PLY-003",
+  "to": "N-PLY-004",
+  "strength": "soft",
+  "why": "会操作物品，才会按用途玩"
+ },
+ {
+  "from": "N-IMI-001",
+  "to": "N-PLY-004",
+  "strength": "soft",
+  "why": "按用途玩多是看大人玩学来的"
+ },
+ {
+  "from": "N-PLY-003",
+  "to": "N-PLY-005",
+  "strength": "soft",
+  "why": "放进去和叠起来都是控制物品的位置"
+ },
+ {
+  "from": "N-PLY-004",
+  "to": "N-PLY-006",
+  "strength": "hard",
+  "why": "会单独用一样东西，才会组合两样"
+ },
+ {
+  "from": "N-PLY-004",
+  "to": "N-PLY-007",
+  "strength": "hard",
+  "why": "先会在真东西上用，才会对娃娃假装"
+ },
+ {
+  "from": "N-PLY-007",
+  "to": "N-PLY-008",
+  "strength": "hard",
+  "why": "有了假装动作，才会用替代物"
+ },
+ {
+  "from": "N-PLY-007",
+  "to": "N-PLY-009",
+  "strength": "hard",
+  "why": "先有一个假装动作，再连成几个"
+ },
+ {
+  "from": "N-PLY-009",
+  "to": "N-PLY-010",
+  "strength": "hard",
+  "why": "会连串假装，才能演一个角色"
+ },
+ {
+  "from": "N-PLY-008",
+  "to": "N-PLY-010",
+  "strength": "soft",
+  "why": "替代物让角色扮演更自由"
+ },
+ {
+  "from": "N-ATT-004",
+  "to": "N-PLY-011",
+  "strength": "hard",
+  "why": "能你来我往，才能轮流玩"
+ },
+ {
+  "from": "N-PLY-002",
+  "to": "N-COG-001",
+  "strength": "soft",
+  "why": "对物品有兴趣，才会去找"
+ },
+ {
+  "from": "N-PLY-004",
+  "to": "N-COG-002",
+  "strength": "soft",
+  "why": "熟悉物品用途，更容易配对"
+ },
+ {
+  "from": "N-PLY-005",
+  "to": "N-COG-003",
+  "strength": "soft",
+  "why": "手能控制积木，才玩得了拼图"
+ },
+ {
+  "from": "N-COG-002",
+  "to": "N-COG-003",
+  "strength": "soft",
+  "why": "配对是拼图的基础"
+ },
+ {
+  "from": "N-REC-001",
+  "to": "N-ATT-005",
+  "strength": "soft",
+  "why": "对声音有反应，叫名字才会回应"
+ },
+ {
+  "from": "N-REC-001",
+  "to": "N-REC-003",
+  "strength": "hard",
+  "why": "先注意声音，才能听懂词"
+ },
+ {
+  "from": "N-ATT-005",
+  "to": "N-REC-002",
+  "strength": "soft",
+  "why": "会因声音停下来看你，才会对「不」暂停"
+ },
+ {
+  "from": "N-REC-003",
+  "to": "N-REC-004",
+  "strength": "hard",
+  "why": "在情境里听懂词，再到只听名字就找"
+ },
+ {
+  "from": "N-ATT-006",
+  "to": "N-REC-004",
+  "strength": "soft",
+  "why": "会跟随目光，才容易找到说的东西"
+ },
+ {
+  "from": "N-REC-003",
+  "to": "N-REC-005",
+  "strength": "hard",
+  "why": "听懂常用词，才能听懂指令"
+ },
+ {
+  "from": "N-REC-005",
+  "to": "N-REC-006",
+  "strength": "hard",
+  "why": "先靠手势，再撤掉手势"
+ },
+ {
+  "from": "N-REC-004",
+  "to": "N-REC-007",
+  "strength": "hard",
+  "why": "听到名字会看，才会指出来"
+ },
+ {
+  "from": "N-ATT-009",
+  "to": "N-REC-007",
+  "strength": "soft",
+  "why": "会用手指，才指得出来"
+ },
+ {
+  "from": "N-REC-004",
+  "to": "N-REC-008",
+  "strength": "hard",
+  "why": "听到名字会看，才拿得对"
+ },
+ {
+  "from": "N-REC-006",
+  "to": "N-REC-009",
+  "strength": "hard",
+  "why": "一步听懂了，才能两步"
+ },
+ {
+  "from": "N-REC-008",
+  "to": "N-REC-010",
+  "strength": "soft",
+  "why": "先懂名词，再懂动作词和方位词"
+ },
+ {
+  "from": "N-REC-010",
+  "to": "N-REC-011",
+  "strength": "soft",
+  "why": "懂动作和方位，才答得了「哪里」"
+ },
+ {
+  "from": "N-REC-008",
+  "to": "N-REC-012",
+  "strength": "soft",
+  "why": "会按名字找东西，才比较得了大小"
+ },
+ {
+  "from": "N-REC-011",
+  "to": "N-REC-013",
+  "strength": "hard",
+  "why": "会答简单问题，才能回答故事问题"
+ },
+ {
+  "from": "N-IMI-003",
+  "to": "N-EXP-001",
+  "strength": "soft",
+  "why": "会和你一来一回发声，咿呀更丰富"
+ },
+ {
+  "from": "N-EXP-001",
+  "to": "N-EXP-002",
+  "strength": "hard",
+  "why": "先有咿呀音节，才会有称呼"
+ },
+ {
+  "from": "N-EXP-002",
+  "to": "N-EXP-003",
+  "strength": "soft",
+  "why": "第一个称呼之后词会慢慢增加"
+ },
+ {
+  "from": "N-REQ-013",
+  "to": "N-EXP-003",
+  "strength": "hard",
+  "why": "会用词要东西，才会有更多词"
+ },
+ {
+  "from": "N-EXP-003",
+  "to": "N-EXP-004",
+  "strength": "hard",
+  "why": "有了词汇，才能给图片命名"
+ },
+ {
+  "from": "N-REC-007",
+  "to": "N-EXP-004",
+  "strength": "soft",
+  "why": "会指书里的东西，命名更容易"
+ },
+ {
+  "from": "N-REQ-016",
+  "to": "N-EXP-005",
+  "strength": "soft",
+  "why": "会连两个词，才开始用「我」「你」"
+ },
+ {
+  "from": "N-EXP-004",
+  "to": "N-EXP-006",
+  "strength": "soft",
+  "why": "会说名词后，再说动作"
+ },
+ {
+  "from": "N-REC-010",
+  "to": "N-EXP-006",
+  "strength": "soft",
+  "why": "听懂动作词，才说得出动作"
+ },
+ {
+  "from": "N-REQ-016",
+  "to": "N-EXP-007",
+  "strength": "hard",
+  "why": "能说两个词，才接得上话"
+ },
+ {
+  "from": "N-ATT-004",
+  "to": "N-EXP-007",
+  "strength": "soft",
+  "why": "你来我往的游戏是对话的雏形"
+ },
+ {
+  "from": "N-REC-011",
+  "to": "N-EXP-008",
+  "strength": "hard",
+  "why": "听懂问题，才会自己问"
+ },
+ {
+  "from": "N-REQ-020",
+  "to": "N-EXP-009",
+  "strength": "hard",
+  "why": "先会三词短句，再到更长的句子"
+ },
+ {
+  "from": "N-EXP-007",
+  "to": "N-EXP-010",
+  "strength": "soft",
+  "why": "会对话，才能分享经历"
+ },
+ {
+  "from": "N-EXP-009",
+  "to": "N-EXP-011",
+  "strength": "soft",
+  "why": "句子变长，才能讲出两件事"
+ },
+ {
+  "from": "N-EXP-010",
+  "to": "N-EXP-011",
+  "strength": "hard",
+  "why": "会说一件事，才能讲两件事"
+ },
+ {
+  "from": "N-EXP-007",
+  "to": "N-EXP-012",
+  "strength": "hard",
+  "why": "先聊两轮，再到三轮以上"
+ },
+ {
+  "from": "N-SLF-001",
+  "to": "N-SLF-003",
+  "strength": "soft",
+  "why": "会用手自己吃，再学用勺"
+ },
+ {
+  "from": "N-SLF-004",
+  "to": "N-SLF-005",
+  "strength": "soft",
+  "why": "会配合穿衣，才能自己脱"
+ },
+ {
+  "from": "N-SLF-005",
+  "to": "N-SLF-006",
+  "strength": "hard",
+  "why": "先会脱，再学穿"
+ },
+ {
+  "from": "N-IMI-002",
+  "to": "N-SLF-007",
+  "strength": "soft",
+  "why": "洗手动作多靠模仿学"
+ },
+ {
+  "from": "N-REQ-012",
+  "to": "N-SLF-008",
+  "strength": "soft",
+  "why": "有了手势或词，才能表示要上厕所"
+ },
+ {
+  "from": "N-SLF-008",
+  "to": "N-SLF-009",
+  "strength": "hard",
+  "why": "会表示需要，才能自己去"
+ },
+ {
+  "from": "N-SLF-005",
+  "to": "N-SLF-009",
+  "strength": "soft",
+  "why": "会脱裤子，上厕所才能自己完成"
+ },
+ {
+  "from": "N-SCH-001",
+  "to": "N-SLF-012",
+  "strength": "soft",
+  "why": "会收玩具，是做家务的开始"
+ },
+ {
+  "from": "N-SEN-005",
+  "to": "N-SEN-001",
+  "strength": "soft",
+  "why": "能接受不同触感，护理更容易"
+ },
+ {
+  "from": "N-SEN-003",
+  "to": "N-SEN-006",
+  "strength": "soft",
+  "why": "能待在有点吵的地方，外出更顺利"
+ },
+ {
+  "from": "N-MOT-001",
+  "to": "N-MOT-002",
+  "strength": "hard",
+  "why": "先坐稳，再学走"
+ },
+ {
+  "from": "N-MOT-002",
+  "to": "N-MOT-003",
+  "strength": "hard",
+  "why": "走稳了，才能单脚站着踢"
+ },
+ {
+  "from": "N-MOT-002",
+  "to": "N-MOT-004",
+  "strength": "hard",
+  "why": "走稳了，才能双脚跳"
+ },
+ {
+  "from": "N-MOT-003",
+  "to": "N-MOT-005",
+  "strength": "soft",
+  "why": "有了球的经验，接球更容易"
+ },
+ {
+  "from": "N-MOT-004",
+  "to": "N-MOT-006",
+  "strength": "hard",
+  "why": "会双脚跳，才能单脚跳"
+ },
+ {
+  "from": "N-MOT-007",
+  "to": "N-MOT-008",
+  "strength": "hard",
+  "why": "会乱涂，才能画圆"
+ },
+ {
+  "from": "N-MOT-008",
+  "to": "N-MOT-009",
+  "strength": "soft",
+  "why": "画画多了，握笔会更成熟"
+ },
+ {
+  "from": "N-PLY-003",
+  "to": "N-MOT-010",
+  "strength": "soft",
+  "why": "会放进去，才会套珠子"
+ },
+ {
+  "from": "N-MOT-009",
+  "to": "N-MOT-011",
+  "strength": "soft",
+  "why": "手指灵活了，才扣得了扣子"
+ },
+ {
+  "from": "N-MOT-009",
+  "to": "N-MOT-012",
+  "strength": "soft",
+  "why": "手指分工好了，才会用剪刀"
+ },
+ {
+  "from": "N-MOT-009",
+  "to": "N-SCH-007",
+  "strength": "hard",
+  "why": "会捏笔，才能写字"
+ },
+ {
+  "from": "N-EMO-001",
+  "to": "N-EMO-002",
+  "strength": "soft",
+  "why": "能被安抚，才扛得住「不行」"
+ },
+ {
+  "from": "N-REQ-011",
+  "to": "N-EMO-007",
+  "strength": "hard",
+  "why": "会合适地说「不要」，才能替代哭闹"
+ },
+ {
+  "from": "N-REQ-013",
+  "to": "N-EMO-007",
+  "strength": "soft",
+  "why": "有了可用的表达，哭闹才会减少"
+ },
+ {
+  "from": "N-REQ-019",
+  "to": "N-EMO-003",
+  "strength": "soft",
+  "why": "接受先……再……，转换更顺"
+ },
+ {
+  "from": "N-EMO-001",
+  "to": "N-EMO-004",
+  "strength": "soft",
+  "why": "能被安抚，分开后才平静得下来"
+ },
+ {
+  "from": "N-EXP-004",
+  "to": "N-EMO-005",
+  "strength": "soft",
+  "why": "有了词汇，才能说出感受"
+ },
+ {
+  "from": "N-EMO-005",
+  "to": "N-EMO-006",
+  "strength": "soft",
+  "why": "会说出感受，才能选办法平静"
+ },
+ {
+  "from": "N-EMO-003",
+  "to": "N-EMO-008",
+  "strength": "hard",
+  "why": "能转换活动，才接受得了计划改变"
+ },
+ {
+  "from": "N-IMI-002",
+  "to": "N-SOC-001",
+  "strength": "hard",
+  "why": "会模仿大人，才会模仿小孩"
+ },
+ {
+  "from": "N-ATT-007",
+  "to": "N-SOC-002",
+  "strength": "soft",
+  "why": "会看人脸，才注意到别人的情绪"
+ },
+ {
+  "from": "N-SOC-001",
+  "to": "N-SOC-003",
+  "strength": "soft",
+  "why": "注意并模仿小孩，才愿意待在旁边玩"
+ },
+ {
+  "from": "N-SOC-003",
+  "to": "N-SOC-004",
+  "strength": "hard",
+  "why": "能在旁边玩，才会主动加入"
+ },
+ {
+  "from": "N-REQ-012",
+  "to": "N-SOC-005",
+  "strength": "soft",
+  "why": "会挥手，才会打招呼"
+ },
+ {
+  "from": "N-PLY-011",
+  "to": "N-SOC-006",
+  "strength": "hard",
+  "why": "先和大人轮流，再和小孩轮流"
+ },
+ {
+  "from": "N-SOC-003",
+  "to": "N-SOC-006",
+  "strength": "soft",
+  "why": "习惯在小孩旁边，才能一起轮流"
+ },
+ {
+  "from": "N-SOC-002",
+  "to": "N-SOC-007",
+  "strength": "hard",
+  "why": "注意到别人难过，才会安慰"
+ },
+ {
+  "from": "N-SOC-004",
+  "to": "N-SOC-008",
+  "strength": "soft",
+  "why": "会加入，再学会邀请"
+ },
+ {
+  "from": "N-EXP-007",
+  "to": "N-SOC-008",
+  "strength": "soft",
+  "why": "会对话，邀请更自然"
+ },
+ {
+  "from": "N-SOC-006",
+  "to": "N-SOC-009",
+  "strength": "hard",
+  "why": "会轮流，才能玩有规则的游戏"
+ },
+ {
+  "from": "N-REC-009",
+  "to": "N-SOC-009",
+  "strength": "soft",
+  "why": "听懂两步指令，规则更容易懂"
+ },
+ {
+  "from": "N-EMO-002",
+  "to": "N-SOC-010",
+  "strength": "soft",
+  "why": "能接受规矩，才会在不同场合调整"
+ },
+ {
+  "from": "N-REC-006",
+  "to": "N-SCH-001",
+  "strength": "soft",
+  "why": "听懂一步指令，才能跟着收拾"
+ },
+ {
+  "from": "N-EXP-004",
+  "to": "N-SCH-002",
+  "strength": "soft",
+  "why": "会说名字类的词，才会说自己的名字"
+ },
+ {
+  "from": "N-ATT-010",
+  "to": "N-SCH-003",
+  "strength": "soft",
+  "why": "能和你一起专注，才能在集体里专注"
+ },
+ {
+  "from": "N-REC-009",
+  "to": "N-SCH-004",
+  "strength": "soft",
+  "why": "听懂指令，才能跟集体指令"
+ },
+ {
+  "from": "N-SCH-003",
+  "to": "N-SCH-004",
+  "strength": "soft",
+  "why": "能在集体里坐住，才会听集体指令"
+ },
+ {
+  "from": "N-REQ-019",
+  "to": "N-SCH-005",
+  "strength": "soft",
+  "why": "懂先后顺序，才看得懂日程"
+ },
+ {
+  "from": "N-REQ-009",
+  "to": "N-SCH-006",
+  "strength": "hard",
+  "why": "会找家长帮忙，才会找老师帮忙"
+ },
+ {
+  "from": "N-EMO-004",
+  "to": "N-SCH-008",
+  "strength": "hard",
+  "why": "能和家长分开平静下来，才能自己进教室"
+ },
+ {
+  "from": "N-COG-002",
+  "to": "N-COG-004",
+  "strength": "soft",
+  "why": "会配对，才容易认颜色"
+ },
+ {
+  "from": "N-REC-012",
+  "to": "N-COG-005",
+  "strength": "soft",
+  "why": "懂多少，数数才有意义"
+ },
+ {
+  "from": "N-COG-002",
+  "to": "N-COG-006",
+  "strength": "hard",
+  "why": "会找一样的，才会按类别分"
+ },
+ {
+  "from": "N-REC-013",
+  "to": "N-COG-007",
+  "strength": "soft",
+  "why": "听得懂故事，才能预测后面"
+ },
+ {
+  "from": "N-EXP-010",
+  "to": "N-COG-008",
+  "strength": "soft",
+  "why": "会说当天的事，才会用时间词"
+ },
+ {
+  "from": "N-REC-011",
+  "to": "N-COG-009",
+  "strength": "soft",
+  "why": "听得懂问题，才答得了用途"
+ }
+]

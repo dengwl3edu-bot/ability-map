@@ -1,0 +1,637 @@
+{
+ "source": "SRC-CDC-LTSAE",
+ "note": "本库自译的简述，供对照典型发育；verified=false 的条目待对照 CDC 原文核实（P6 门禁）",
+ "items": [
+  {
+   "id": "CDC-2m-calm",
+   "age": 2,
+   "zh": "有人跟他说话或抱起来时会安静下来",
+   "en": "Calms down when spoken to or picked up",
+   "verified": true
+  },
+  {
+   "id": "CDC-2m-smile",
+   "age": 2,
+   "zh": "你和他说话或对他笑时，他会笑",
+   "verified": true,
+   "en": "Smiles when you talk to or smile at her"
+  },
+  {
+   "id": "CDC-4m-head-voice",
+   "age": 4,
+   "zh": "会把头转向你说话的声音",
+   "en": "Turns head towards the sound of your voice",
+   "verified": true
+  },
+  {
+   "id": "CDC-6m-laugh",
+   "age": 6,
+   "zh": "会笑出声",
+   "verified": true,
+   "en": "Laughs"
+  },
+  {
+   "id": "CDC-6m-mouth",
+   "age": 6,
+   "zh": "会把东西放进嘴里探索",
+   "en": "Puts things in her mouth to explore them",
+   "verified": true
+  },
+  {
+   "id": "CDC-6m-reach",
+   "age": 6,
+   "zh": "会伸手去抓想要的玩具",
+   "verified": true,
+   "en": "Reaches to grab a toy she wants"
+  },
+  {
+   "id": "CDC-6m-sounds",
+   "age": 6,
+   "zh": "会和你轮流发出声音",
+   "verified": true,
+   "en": "Takes turns making sounds with you"
+  },
+  {
+   "id": "CDC-9m-arms-up",
+   "age": 9,
+   "zh": "会举起手臂要人抱",
+   "verified": true,
+   "en": "Lifts arms up to be picked up"
+  },
+  {
+   "id": "CDC-9m-babble",
+   "age": 9,
+   "zh": "会发出很多不同的声音，如 mamama、bababa",
+   "en": "Makes a lot of different sounds like \"mamamama\" and \"bababababa\"",
+   "verified": true
+  },
+  {
+   "id": "CDC-9m-bang",
+   "age": 9,
+   "zh": "会把两样东西对敲",
+   "en": "Bangs two things together",
+   "verified": true
+  },
+  {
+   "id": "CDC-9m-name",
+   "age": 9,
+   "zh": "叫他名字时会看过来",
+   "verified": true,
+   "en": "Looks when you call her name"
+  },
+  {
+   "id": "CDC-9m-peekaboo",
+   "age": 9,
+   "zh": "玩躲猫猫时会笑",
+   "verified": true,
+   "en": "Smiles or laughs when you play peek-a-boo"
+  },
+  {
+   "id": "CDC-9m-sit",
+   "age": 9,
+   "zh": "不用扶能坐",
+   "en": "Sits without support",
+   "verified": true
+  },
+  {
+   "id": "CDC-12m-container",
+   "age": 12,
+   "zh": "会把东西放进容器里，比如把积木放进杯子",
+   "en": "Puts something in a container, like a block in a cup",
+   "verified": true
+  },
+  {
+   "id": "CDC-12m-hide",
+   "age": 12,
+   "zh": "会去找他看着你藏起来的东西",
+   "en": "Looks for things he sees you hide, like a toy under a blanket",
+   "verified": true
+  },
+  {
+   "id": "CDC-12m-mama",
+   "age": 12,
+   "zh": "会用「妈妈」「爸爸」或其他特别的称呼叫家长",
+   "en": "Calls a parent \"mama\" or \"dada\" or another special name",
+   "verified": true
+  },
+  {
+   "id": "CDC-12m-no",
+   "age": 12,
+   "zh": "听懂「不」（听到会停一下或停下）",
+   "en": "Understands \"no\" (pauses briefly or stops when you say it)",
+   "verified": true
+  },
+  {
+   "id": "CDC-12m-patacake",
+   "age": 12,
+   "zh": "会和你玩拍手之类的游戏",
+   "verified": true,
+   "en": "Plays games with you, like pat-a-cake"
+  },
+  {
+   "id": "CDC-12m-wave",
+   "age": 12,
+   "zh": "会挥手再见",
+   "verified": true,
+   "en": "Waves 'bye-bye'"
+  },
+  {
+   "id": "CDC-15m-copy-kids",
+   "age": 15,
+   "zh": "玩的时候会模仿其他小孩",
+   "en": "Copies other children while playing",
+   "verified": true
+  },
+  {
+   "id": "CDC-15m-finger-feed",
+   "age": 15,
+   "zh": "会用手指自己拿一些食物吃",
+   "en": "Uses fingers to feed herself some food",
+   "verified": true
+  },
+  {
+   "id": "CDC-15m-gesture-dir",
+   "age": 15,
+   "zh": "有手势加说话时能听懂指令",
+   "en": "Follows directions given with both a gesture and words",
+   "verified": true
+  },
+  {
+   "id": "CDC-15m-look-named",
+   "age": 15,
+   "zh": "你说出熟悉东西的名字，他会看向它",
+   "en": "Looks at a familiar object when you name it",
+   "verified": true
+  },
+  {
+   "id": "CDC-15m-point-ask",
+   "age": 15,
+   "zh": "会用手指来要东西或求帮忙",
+   "verified": true,
+   "en": "Points to ask for something or to get help"
+  },
+  {
+   "id": "CDC-15m-show",
+   "age": 15,
+   "zh": "会把喜欢的东西拿给你看",
+   "verified": true,
+   "en": "Shows you an object she likes"
+  },
+  {
+   "id": "CDC-15m-stack2",
+   "age": 15,
+   "zh": "至少能叠起两个小东西，比如积木",
+   "en": "Stacks at least two small objects, like blocks",
+   "verified": true
+  },
+  {
+   "id": "CDC-15m-use-right",
+   "age": 15,
+   "zh": "会试着按正确的方式用东西，比如电话、杯子、书",
+   "en": "Tries to use things the right way, like a phone, cup, or book",
+   "verified": true
+  },
+  {
+   "id": "CDC-15m-walk",
+   "age": 15,
+   "zh": "能自己走几步",
+   "en": "Takes a few steps on his own",
+   "verified": true
+  },
+  {
+   "id": "CDC-15m-words",
+   "age": 15,
+   "zh": "除了爸爸妈妈，还会试着说一两个词",
+   "verified": true,
+   "en": "Tries to say one or two words besides 'mama' or 'dada'"
+  },
+  {
+   "id": "CDC-18m-1step",
+   "age": 18,
+   "zh": "不用手势也能听懂一步指令",
+   "en": "Follows one-step directions without any gestures",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-3words",
+   "age": 18,
+   "zh": "除了爸爸妈妈，还会试着说三个以上的词",
+   "en": "Tries to say three or more words besides \"mama\" or \"dada\"",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-book",
+   "age": 18,
+   "zh": "会和你一起看几页书",
+   "verified": true,
+   "en": "Looks at a few pages in a book with you"
+  },
+  {
+   "id": "CDC-18m-copy",
+   "age": 18,
+   "zh": "会模仿你做家务",
+   "verified": true,
+   "en": "Copies you doing chores, like sweeping with a broom"
+  },
+  {
+   "id": "CDC-18m-cup",
+   "age": 18,
+   "zh": "能用没盖的杯子喝水，有时会洒",
+   "en": "Drinks from a cup without a lid and may spill sometimes",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-hands-wash",
+   "age": 18,
+   "zh": "会伸出手让你帮他洗",
+   "en": "Puts hands out for you to wash them",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-help-dress",
+   "age": 18,
+   "zh": "穿衣时会配合，伸手进袖子或抬脚",
+   "en": "Helps you dress him by pushing arm through sleeve or lifting up foot",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-point-show",
+   "age": 18,
+   "zh": "会指给你看有趣的东西",
+   "verified": true,
+   "en": "Points to show you something interesting"
+  },
+  {
+   "id": "CDC-18m-scribble",
+   "age": 18,
+   "zh": "会乱涂",
+   "en": "Scribbles",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-simple-play",
+   "age": 18,
+   "zh": "会用简单的方式玩玩具，比如推小车",
+   "en": "Plays with toys in a simple way, like pushing a toy car",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-spoon",
+   "age": 18,
+   "zh": "会试着用勺子",
+   "en": "Tries to use a spoon",
+   "verified": true
+  },
+  {
+   "id": "CDC-18m-walk",
+   "age": 18,
+   "zh": "不扶任何人或东西能走",
+   "en": "Walks without holding on to anyone or anything",
+   "verified": true
+  },
+  {
+   "id": "CDC-24m-body-parts",
+   "age": 24,
+   "zh": "你让他指，他至少能指出两个身体部位",
+   "en": "Points to at least two body parts when you ask him to show you",
+   "verified": true
+  },
+  {
+   "id": "CDC-24m-book-point",
+   "age": 24,
+   "zh": "你问书里的东西在哪，他会指",
+   "en": "Points to things in a book when you ask",
+   "verified": true
+  },
+  {
+   "id": "CDC-24m-gestures",
+   "age": 24,
+   "zh": "除了挥手和指，还会用其他手势（飞吻、点头）",
+   "verified": true,
+   "en": "Uses more gestures than just waving and pointing, like blowing a kiss or nodding yes"
+  },
+  {
+   "id": "CDC-24m-kick",
+   "age": 24,
+   "zh": "会踢球",
+   "en": "Kicks a ball",
+   "verified": true
+  },
+  {
+   "id": "CDC-24m-notice-upset",
+   "age": 24,
+   "zh": "会注意到别人受伤或难过",
+   "en": "Notices when others are hurt or upset",
+   "verified": true
+  },
+  {
+   "id": "CDC-24m-spoon",
+   "age": 24,
+   "zh": "会用勺子吃饭",
+   "en": "Eats with a spoon",
+   "verified": true
+  },
+  {
+   "id": "CDC-24m-two-toys",
+   "age": 24,
+   "zh": "会同时玩两样以上的玩具，比如把玩具食物放在玩具盘上",
+   "en": "Plays with more than one toy at the same time",
+   "verified": true
+  },
+  {
+   "id": "CDC-24m-two-words",
+   "age": 24,
+   "zh": "至少会把两个词连起来说",
+   "verified": true,
+   "en": "Says at least two words together, like 'More milk.'"
+  },
+  {
+   "id": "CDC-30m-2step",
+   "age": 30,
+   "zh": "能听懂两步指令",
+   "en": "Follows two-step instructions",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-action-word",
+   "age": 30,
+   "zh": "会说两个以上的词，其中有一个动作词",
+   "verified": true,
+   "en": "Says two or more words together, with one action word, like 'Doggie run'"
+  },
+  {
+   "id": "CDC-30m-color",
+   "age": 30,
+   "zh": "至少认识一种颜色",
+   "en": "Shows he knows at least one color",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-jump",
+   "age": 30,
+   "zh": "能双脚离地跳",
+   "en": "Jumps off the ground with both feet",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-name-book",
+   "age": 30,
+   "zh": "你指着书问「这是什么」，他能说出名字",
+   "en": "Names things in a book when you point and ask, \"What is this?\"",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-next-to-kids",
+   "age": 30,
+   "zh": "会在其他小孩旁边玩，有时一起玩",
+   "en": "Plays next to other children and sometimes plays with them",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-pretend",
+   "age": 30,
+   "zh": "会用东西来假装，比如拿积木假装喂娃娃",
+   "en": "Uses things to pretend, like feeding a block to a doll as if it were food",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-pronouns",
+   "age": 30,
+   "zh": "会说「我」「我们」这类词",
+   "en": "Says words like \"I,\" \"me,\" or \"we\"",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-routine",
+   "age": 30,
+   "zh": "听到提醒会跟着简单的常规，比如一起收玩具",
+   "en": "Follows simple routines when told",
+   "verified": true
+  },
+  {
+   "id": "CDC-30m-undress",
+   "age": 30,
+   "zh": "能自己脱一些衣服，比如宽松的裤子",
+   "en": "Takes some clothes off by himself",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-action-picture",
+   "age": 36,
+   "zh": "问他时，能说出图里正在发生的动作",
+   "en": "Says what action is happening in a picture or book when asked",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-calm-10",
+   "age": 36,
+   "zh": "你离开后 10 分钟内能平静下来",
+   "en": "Calms down within 10 minutes after you leave her",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-circle",
+   "age": 36,
+   "zh": "你示范后能画一个圆",
+   "en": "Draws a circle, when you show him how",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-conversation",
+   "age": 36,
+   "zh": "能和你对话，至少来回两轮",
+   "en": "Talks with you in conversation using at least two back-and-forth exchanges",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-dress",
+   "age": 36,
+   "zh": "能自己穿一些衣服，比如宽松的裤子或外套",
+   "en": "Puts on some clothes by himself",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-first-name",
+   "age": 36,
+   "zh": "被问时能说出自己的名字",
+   "en": "Says first name, when asked",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-join-kids",
+   "age": 36,
+   "zh": "会注意到其他小孩并加入一起玩",
+   "en": "Notices other children and joins them to play",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-string",
+   "age": 36,
+   "zh": "会把大珠子或通心粉串起来",
+   "en": "Strings items together, like large beads or macaroni",
+   "verified": true
+  },
+  {
+   "id": "CDC-36m-wh",
+   "age": 36,
+   "zh": "会问谁、什么、哪里、为什么",
+   "en": "Asks \"who,\" \"what,\" \"where,\" or \"why\" questions",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-4words",
+   "age": 48,
+   "zh": "会说四个词以上的句子",
+   "en": "Says sentences with four or more words",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-answer-for",
+   "age": 48,
+   "zh": "能回答「外套是干什么用的」这类简单问题",
+   "en": "Answers simple questions like \"What is a coat for?\"",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-ask-play",
+   "age": 48,
+   "zh": "身边没有小朋友时会要求去和小朋友玩",
+   "en": "Asks to go play with children if none are around",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-behavior-place",
+   "age": 48,
+   "zh": "会根据场合改变行为",
+   "en": "Changes behavior based on where she is",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-catch",
+   "age": 48,
+   "zh": "大部分时候能接住大球",
+   "en": "Catches a large ball most of the time",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-colors",
+   "age": 48,
+   "zh": "能说出几种东西的颜色",
+   "en": "Names a few colors of items",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-comfort",
+   "age": 48,
+   "zh": "会安慰受伤或难过的人",
+   "en": "Comforts others who are hurt or sad",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-next-story",
+   "age": 48,
+   "zh": "能说出熟悉故事接下来发生什么",
+   "en": "Tells what comes next in a well-known story",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-pencil",
+   "age": 48,
+   "zh": "用手指和拇指拿笔，不是握拳",
+   "en": "Holds crayon or pencil between fingers and thumb (not a fist)",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-pretend-role",
+   "age": 48,
+   "zh": "玩的时候会假装成别的角色",
+   "en": "Pretends to be something else during play",
+   "verified": true
+  },
+  {
+   "id": "CDC-48m-tell-day",
+   "age": 48,
+   "zh": "会说出当天发生的至少一件事",
+   "en": "Talks about at least one thing that happened during her day",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-attention",
+   "age": 60,
+   "zh": "活动时能专心 5–10 分钟",
+   "en": "Pays attention for 5 to 10 minutes during activities",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-book-q",
+   "age": 60,
+   "zh": "讲完故事后能回答简单的问题",
+   "en": "Answers simple questions about a book or story",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-buttons",
+   "age": 60,
+   "zh": "会扣一些扣子",
+   "en": "Buttons some buttons",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-chores",
+   "age": 60,
+   "zh": "会做简单的家务",
+   "en": "Does simple chores at home",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-conv3",
+   "age": 60,
+   "zh": "对话能来回三轮以上",
+   "en": "Keeps a conversation going with more than three back-and-forth exchanges",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-count10",
+   "age": 60,
+   "zh": "能数到 10",
+   "en": "Counts to 10",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-hop",
+   "age": 60,
+   "zh": "会单脚跳",
+   "en": "Hops on one foot",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-letters-name",
+   "age": 60,
+   "zh": "会写自己名字里的一些字母",
+   "en": "Writes some letters in her name",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-rules",
+   "age": 60,
+   "zh": "和其他小孩玩游戏时会遵守规则或轮流",
+   "en": "Follows rules or takes turns when playing games with other children",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-story",
+   "age": 60,
+   "zh": "能讲一个至少有两件事的故事",
+   "en": "Tells a story she heard or made up with at least two events",
+   "verified": true
+  },
+  {
+   "id": "CDC-60m-time-words",
+   "age": 60,
+   "zh": "会用表示时间的词",
+   "en": "Uses words about time",
+   "verified": true
+  }
+ ],
+ "verified_on": "2026-10-07，对照 https://www.cdc.gov/act-early/milestones/ 各月龄页"
+}
