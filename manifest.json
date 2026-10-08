@@ -1,10 +1,12 @@
 {
- "version": "0.2 2026-10-07",
+ "version": "1.0 2026-10-08",
  "counts": {
-  "nodes": 134,
-  "edges": 145,
-  "activities": 471,
-  "units": 40,
+  "domains": 29,
+  "strands": 167,
+  "nodes": 1181,
+  "edges": 1199,
+  "activities": 2088,
+  "cells": 534,
   "parent_track": 11
  }
 }
