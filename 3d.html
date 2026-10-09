@@ -29,7 +29,7 @@ html,body{margin:0;height:100%;background:var(--bg);color:var(--ink);font:15px/1
 .axis{position:fixed;right:24px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:12px;text-align:right;line-height:2}
 .back{position:fixed;right:24px;bottom:44px;font-size:13px}
 .back a{color:var(--accent)}
-@media (max-width:700px){.hero{left:16px;top:14px;max-width:70%}.hero h1{font-size:28px}.hero p{font-size:12px}.legend{left:12px;bottom:12px;min-width:0;padding:8px}.legend button{font-size:12px}
+@media (max-width:700px){body.sel .legend{display:none}.hero{left:16px;top:14px;max-width:70%}.hero h1{font-size:28px}.hero p{font-size:12px}.legend{left:12px;bottom:12px;min-width:0;padding:8px}.legend button{font-size:12px}
  .info{left:12px;right:12px;top:auto;bottom:12px;width:auto}.axis{display:none}.hint{display:none}.back{right:12px;top:14px;bottom:auto}}
 </style>
 <script>if(!Object.fromEntries)Object.fromEntries=function(a){var o={};Array.from(a).forEach(function(p){o[p[0]]=p[1]});return o};window.__AM_OK = false;
@@ -141,8 +141,10 @@ function clearSel() {
   anc = /* @__PURE__ */ new Set();
   Graph.nodeColor(Graph.nodeColor()).linkColor(Graph.linkColor()).linkWidth(Graph.linkWidth());
   document.getElementById("info").style.display = "none";
+  document.body.classList.remove("sel");
 }
 function showInfo(n) {
+  document.body.classList.add("sel");
   const a = [...anc].map((i) => N[i]).sort((x, y) => x.stage - y.stage);
   const el = document.getElementById("info");
   el.style.display = "block";
