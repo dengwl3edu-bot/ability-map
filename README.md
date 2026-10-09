@@ -1,16 +1,7 @@
-# 自然干预能力地图（0–6 岁）· v1.0
+# 自然干预能力地图 · Ability Map (0–6)
 
-免费的家长练习材料。把多个国际常用的早期干预课程与评估体系的全部条目逐条拆开、合并、重组，再加上公开的发育里程碑（美国 CDC，公有领域），排成一张按「先会什么、再学什么」连接的能力地图：
+在线使用：https://dengwl3edu-bot.github.io/ability-map/ （手机浏览器打开后可「添加到主屏幕」，离线可用）· 3D 全景：https://dengwl3edu-bot.github.io/ability-map/3d.html
 
-- **29 个领域 · 167 条能力线 · 1181 项能力 · 2088 个家庭练习活动 · 8 个月龄阶段**（0–6 月 … 5–6 岁）
-- 每项能力有：家里怎么看出来、练够了的标志、一分钟版、先修与后续、在家怎么练、一键生成 4 周练习计划
-- 「找卡点」：选孩子月龄和关心的领域，在每条能力线上逐步定位练习起点
-- 每项能力下列有「对应体系条目」，供专业人员对照；各体系的并入情况见 `coverage.md`
+家长教育信息，不做诊断。
 
-**家长教育信息，不做诊断，不能代替医生或治疗师的评估。**
-
-- 在线打开：本仓库的 GitHub Pages
-- 离线使用：下载 `index.html`，用手机或电脑浏览器直接打开即可，不需要联网
-- 开放数据：`nodes.json`（能力）· `edges.json`（先修关系）· `activities.json`（活动）· `principles.json`（原则）· `parent_track.json`（家长必修）· `manifest.json`
-
-许可：内容与数据采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)。
+© 2026 Wenlin DENG. All rights reserved. 个人和家庭可免费使用；机构或商业用途（含收费课程、培训、转售、复制或改编后发布）须事先取得书面授权。
